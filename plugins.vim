@@ -15,6 +15,7 @@ Plug 'sainnhe/everforest'
 
 " Tree
 Plug 'scrooloose/nerdtree'
+Plug 'ryanoasis/vim-devicons'
 
 " Typing
 Plug 'jiangmiao/auto-pairs'
